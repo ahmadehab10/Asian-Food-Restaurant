@@ -17,7 +17,7 @@ Danny has provided me with a sample of his overall customer data due to privacy 
   <li> Joins </li>
 </ul>
 
-Insights:
+<h1>Insights</h1>
 
 Customer B is the most frequent visitor with 6 visits 
 
