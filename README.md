@@ -15,6 +15,7 @@ Danny has provided me with a sample of his overall customer data due to privacy 
   <li> Windows Functions </li>
   <li> Aggregations </li>
   <li> Joins </li>
+ <li> Data Visualization </li>
 </ul>
 
 <h1>Insights</h1>
