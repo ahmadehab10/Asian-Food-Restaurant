@@ -1,6 +1,6 @@
 # Asian-Food-Restaurant
 
-<<h1>Problem Statement</h1>:
+<h1>Problem Statement</h1>:
 
 Danny has a new startup restaurant and wants to use the data to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favorite. Having this deeper connection with his customers will help him deliver a better experience for his customers.
 
@@ -8,13 +8,14 @@ He plans on using these insights to help him decide whether he should expand the
 
 Danny has provided me with a sample of his overall customer data due to privacy issues - but he hopes that these examples are enough for you to write fully functioning SQL queries to help him answer his questions
 
-Skills Applied:
-
-SQL,
-CTE's,
-Windows Functions,
-Aggregations,
-Joins.
+<h1>SKills Applied</h1>
+<li>
+  <ul> SQL </ul>
+  <ul> CTE's </ul>
+  <ul> Windows Functions </ul>
+  <ul> Aggregations </ul>
+  <ul> Joins </ul>
+</li>
 
 Insights:
 
